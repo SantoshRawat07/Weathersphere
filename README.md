@@ -34,8 +34,8 @@ After that, i know api also show the weather data up to 6 to 7 days only, so i m
 There are many error and doubts how can i make the ui amazing, i also ask my friends and finally i completed the project in a simple weatherspher websiter with responsive and functionality.
 
 # Github 
-
+https://github.com/SantoshRawat07/Weathersphere
 
 # Demo Preview
-
+https://weathersphere-one.vercel.app/
 
